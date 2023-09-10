@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.tweetyproject.arg:delp:1.23">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/tweetyproject/arg/delp/1.23/delp-1.23.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/tweetyproject/arg/delp/1.23/delp-1.23-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/tweetyproject/arg/delp/1.23/delp-1.23-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

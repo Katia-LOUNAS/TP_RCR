@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.tweetyproject.agents:dialogues:1.23">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/tweetyproject/agents/dialogues/1.23/dialogues-1.23.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/tweetyproject/agents/dialogues/1.23/dialogues-1.23-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/tweetyproject/agents/dialogues/1.23/dialogues-1.23-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
